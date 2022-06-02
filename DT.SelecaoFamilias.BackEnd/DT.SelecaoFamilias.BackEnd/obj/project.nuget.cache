@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5BRC9bjgkoTv9d90SspYVsTdYn1BvCEm2OCfDPySL1Qglh+dO+j2e8Nh6aP5jgjPJuYV8+ATDHnmOa+cHy2+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luan_\\source\\repos\\DT.SelecaoFamilias.BackEnd\\DT.SelecaoFamilias.BackEnd\\DT.SelecaoFamilias.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luan_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\luan_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\luan_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\luan_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\luan_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\luan_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

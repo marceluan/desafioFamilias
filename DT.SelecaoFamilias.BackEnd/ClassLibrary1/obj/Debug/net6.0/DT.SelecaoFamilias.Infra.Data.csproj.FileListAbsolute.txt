@@ -1,0 +1,12 @@
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\bin\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.deps.json
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\bin\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\bin\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.pdb
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.AssemblyInfo.cs
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\refint\DT.SelecaoFamilias.Infra.Data.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.pdb
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\ClassLibrary1\obj\Debug\net6.0\ref\DT.SelecaoFamilias.Infra.Data.dll

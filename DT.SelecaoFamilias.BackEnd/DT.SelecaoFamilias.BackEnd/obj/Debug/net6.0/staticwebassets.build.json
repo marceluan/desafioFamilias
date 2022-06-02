@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xbfX3cDgo1r8d6qMKzMAdHauLQyDPDdjmQH869cODIc=",
+  "Source": "DT.SelecaoFamilias.WebApi",
+  "BasePath": "_content/DT.SelecaoFamilias.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

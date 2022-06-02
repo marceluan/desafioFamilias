@@ -1,0 +1,17 @@
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\bin\Debug\net6.0\DT.SelecaoFamilias.Domain.deps.json
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\bin\Debug\net6.0\DT.SelecaoFamilias.Domain.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\bin\Debug\net6.0\DT.SelecaoFamilias.Domain.pdb
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\bin\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\bin\Debug\net6.0\DT.SelecaoFamilias.Infra.Data.pdb
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.csproj.AssemblyReference.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.AssemblyInfoInputs.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.AssemblyInfo.cs
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.csproj.CopyComplete
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\refint\DT.SelecaoFamilias.Domain.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\DT.SelecaoFamilias.Domain.pdb
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\obj\Debug\net6.0\ref\DT.SelecaoFamilias.Domain.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\bin\Debug\net6.0\DT.SelecaoFamilias.Shared.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Domain\bin\Debug\net6.0\DT.SelecaoFamilias.Shared.pdb

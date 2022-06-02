@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DT.SelecaoFamilias.AppService/1.0.0": {
+        "dependencies": {
+          "DT.SelecaoFamilias.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DT.SelecaoFamilias.AppService.dll": {}
+        }
+      },
+      "DT.SelecaoFamilias.Domain/1.0.0": {
+        "dependencies": {
+          "DT.SelecaoFamilias.Infra.Data": "1.0.0",
+          "DT.SelecaoFamilias.Shared": "1.0.0"
+        },
+        "runtime": {
+          "DT.SelecaoFamilias.Domain.dll": {}
+        }
+      },
+      "DT.SelecaoFamilias.Infra.Data/1.0.0": {
+        "runtime": {
+          "DT.SelecaoFamilias.Infra.Data.dll": {}
+        }
+      },
+      "DT.SelecaoFamilias.Shared/1.0.0": {
+        "runtime": {
+          "DT.SelecaoFamilias.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DT.SelecaoFamilias.AppService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DT.SelecaoFamilias.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DT.SelecaoFamilias.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DT.SelecaoFamilias.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

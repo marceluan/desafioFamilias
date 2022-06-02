@@ -1,0 +1,12 @@
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\bin\Debug\net6.0\DT.SelecaoFamilias.Shared.deps.json
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\bin\Debug\net6.0\DT.SelecaoFamilias.Shared.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\bin\Debug\net6.0\DT.SelecaoFamilias.Shared.pdb
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\DT.SelecaoFamilias.Shared.csproj.AssemblyReference.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\DT.SelecaoFamilias.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\DT.SelecaoFamilias.Shared.AssemblyInfoInputs.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\DT.SelecaoFamilias.Shared.AssemblyInfo.cs
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\DT.SelecaoFamilias.Shared.csproj.CoreCompileInputs.cache
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\DT.SelecaoFamilias.Shared.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\refint\DT.SelecaoFamilias.Shared.dll
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\DT.SelecaoFamilias.Shared.pdb
+C:\Users\luan_\source\repos\DT.SelecaoFamilias.BackEnd\DT.SelecaoFamilias.Shared\obj\Debug\net6.0\ref\DT.SelecaoFamilias.Shared.dll
